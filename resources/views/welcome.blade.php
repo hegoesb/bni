@@ -60,10 +60,10 @@
                                     Puissance kWc : 3
                                 </div>
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Surface : 18 m2
+                                    Surface : 14 m2
                                 </div>
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Nombre de module solaire : 12
+                                    Nombre de module solaire : 7
                                 </div>
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Tarif € (TTC) : 7000€
