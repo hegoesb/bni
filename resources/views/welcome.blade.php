@@ -69,13 +69,19 @@
                                     Tarif € (TTC) : 7000€
                                 </div>
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Retour sur investissement : 12ans
+                                    Prime Etat Francais € (TTC) : 1000€
+                                </div>
+                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                    Type installation : Autoconsommation + Vente du surplus
                                 </div>
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     Durée garantie des panneaux : 20ans
                                 </div>
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Type installation : Autoconsommation + Vente du surplus
+                                    Retour sur investissement : 11ans(Suivant profil client)
+                                </div>
+                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                    Exemple de profil client : maison avec psicine, chauffeau électrique, climatisation et chauffage électrique, le retour sur investissement peut descendre à 8ans.
                                 </div>
                             </div>
                         </div>
